@@ -12,9 +12,9 @@ Report bugs at <https://github.com/romanchyla/refsearch/issues>.
 
 If you are reporting a bug, please include:
 
--   Your operating system name and version.
--   Any details about your local setup that might be helpful in troubleshooting.
--   Detailed steps to reproduce the bug.
+- Your operating system name and version.
+- Any details about your local setup that might be helpful in troubleshooting.
+- Detailed steps to reproduce the bug.
 
 ### Fix Bugs
 
@@ -26,7 +26,7 @@ Look through the GitHub issues for features. Anything tagged with "enhancement" 
 
 ### Write Documentation
 
-RefSearch could always use more documentation, whether as part of the official RefSearch docs, in docstrings, or even on the web in blog posts, articles, and such.
+refsearch could always use more documentation, whether as part of the official refsearch docs, in docstrings, or even on the web in blog posts, articles, and such.
 
 ### Submit Feedback
 
@@ -34,9 +34,9 @@ The best way to send feedback is to file an issue at <https://github.com/romanch
 
 If you are proposing a feature:
 
--   Explain in detail how it would work.
--   Keep the scope as narrow as possible, to make it easier to implement.
--   Remember that this is a volunteer-driven project, and that contributions are welcome :)
+- Explain in detail how it would work.
+- Keep the scope as narrow as possible, to make it easier to implement.
+- Remember that this is a volunteer-driven project, and that contributions are welcome :)
 
 ## Get Started!
 

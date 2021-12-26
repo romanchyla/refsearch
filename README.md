@@ -1,4 +1,4 @@
-# RefSearch
+# refsearch
 
 <p align="center">
   <a href="https://github.com/romanchyla/refsearch/actions?query=workflow%3ACI">
@@ -9,7 +9,6 @@
   </a>
 </p>
 
-
 Exploration of efficient/effective reference resolution.
 
 ## Installation
@@ -19,3 +18,11 @@ Install this via pip (or your favourite package manager):
 `pip install refsearch`
 
 
+## Generate Documentation
+
+`rtool docs`
+
+
+## Update Release
+
+`rtool update-release`
